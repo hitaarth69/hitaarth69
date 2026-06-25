@@ -1,15 +1,13 @@
 <h1 align="center">Hi there, I'm Hitaarth 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Creative+Coder;Building+cool+stuff+with+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Normal+Coder;Creative+Coder;Building+cool+stuff+with+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently building: **Galaxy Generator** & **Weather Tapestry**
 - 🌱 I’m currently learning: Advanced React / Node.js
-- 👯 I’m looking to collaborate on: Open-source creative projects
 - ⚡ Fun fact: I write code just as much as I drink coffee
 
 ---
@@ -31,6 +29,7 @@
 ---
 
 ### 🏆 Featured Projects
-- **[Expense Tracker](link-to-your-repo)** – Track your daily spending with ease.
-- **[Weather Tapestry](link-to-your-repo)** – A visual weather app with dynamic backgrounds.
-- **[Galaxy Generator](link-to-your-repo)** – Generate procedural star systems.
+- **[Polaroid Images](https://hitaarth69.github.io/polaroid-images/)** – Make your polaroid images with ease.
+- **[Expense Tracker](https://hitaarth69.github.io/expense-tracker/)** – Track your daily spending with ease.
+- **[Weather Tapestry](https://hitaarth69.github.io/weather-tapestry/)** – A visual weather app with dynamic backgrounds.
+- **[Galaxy Generator](https://hitaarth69.github.io/galaxy-generator/)** – Generate procedural star systems.
