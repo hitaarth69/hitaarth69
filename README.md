@@ -20,19 +20,6 @@ I love building things that sit at the intersection of **utility and wonder**. W
 
 ---
 
-## 📅 My Dev Log (June 2026)
-
-| Day | Focus |
-|-----|-------|
-| Mon | Built the star-database API for Galaxy Generator |
-| Tue | Fixed UI lag on Weather Tapestry's radar map |
-| Wed | Added dark mode to Expense Tracker |
-| Thu | Refactoring old `c-34` codebase (RIP old projects) |
-| Fri | Planning a new portfolio site |
-| Weekend | 🎮 Touch grass & play indie games |
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -77,10 +64,6 @@ I love building things that sit at the intersection of **utility and wonder**. W
 
 ---
 
-- **[Expense Tracker](https://hitaarth69.github.io/expense-tracker/)** – Track your daily spending with ease.
-  `🛠️ LocalStorage · Chart.js · Multi-Currency`
-
----
 ## 👀 Profile Views
 
 <p align="left">
