@@ -12,12 +12,6 @@ Hey there! I'm Hitaarth—a passionate front-end coder who believes code is just
 
 I love building things that sit at the intersection of **utility and wonder**. Whether I'm spawning star systems, visualizing weather patterns, or tracking daily expenses, my goal is to make the complex feel simple and beautiful.
 
-- 🚀 **Currently launching:** [Galaxy Generator](link) – procedural universe creation with JavaScript.  
-- 🌦️ **Currently weather-proofing:** [Weather Tapestry](link) – an interactive climate dashboard.  
-- 💸 **Currently balancing:** [Expense Tracker](link) – because even coders need to budget for coffee.
-
-> *"Write code that feels like magic, but reads like poetry."*
-
 ---
 
 ## 🛠️ Tech Stack
