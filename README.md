@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hitaarth 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Front -end+Developer;Creative+Coder;Building+cool+stuff+with+JavaScript;Turning+caffeine+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Front-end+Developer;Creative+Coder;Building+cool+stuff+with+JavaScript;Turning+caffeine+into+code" alt="Typing SVG" />
 </p>
 
 ---
@@ -69,14 +69,18 @@ I love building things that sit at the intersection of **utility and wonder**. W
 
 ---
 
-## 🏆 Featured Projects
-
-- **[Expense Tracker](link)** – Track your daily spending with ease.  
-- **[Weather Tapestry](link)** – A visual weather app with dynamic backgrounds.  
-- **[Galaxy Generator](link)** – Generate procedural star systems.  
+### 🏆 Featured Projects
+- **[Polaroid Images](https://hitaarth69.github.io/polaroid-images/)** – Make your polaroid images with ease.
+- **[Expense Tracker](https://hitaarth69.github.io/expense-tracker/)** – Track your daily spending with ease.
+- **[Weather Tapestry](https://hitaarth69.github.io/weather-tapestry/)** – A visual weather app with dynamic backgrounds.
+- **[Galaxy Generator](https://hitaarth69.github.io/galaxy-generator/)** – Generate procedural star systems. 
 
 ---
 
+- **[Expense Tracker](https://hitaarth69.github.io/expense-tracker/)** – Track your daily spending with ease.
+  `🛠️ LocalStorage · Chart.js · Multi-Currency`
+
+---
 ## 👀 Profile Views
 
 <p align="left">
