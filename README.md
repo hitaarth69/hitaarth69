@@ -53,7 +53,7 @@ I love building things that sit at the intersection of **utility and wonder**. W
 ### 🏆 Featured Projects
 - **[Polaroid Images](https://hitaarth69.github.io/polaroid-images/)** – Make your polaroid images with ease.
 - **[NovelForge Pro](https://hitaarth69.github.io/novelforge/)** - Write your next novel with an AI co-pilot and world-building tools.
-- - **[AgileFlow Kanban](https://hitaarth69.github.io/agileflow-kanban/)** - Manage your projects and workflows with a visual Kanban board.
+- **[AgileFlow Kanban](https://hitaarth69.github.io/agileflow-kanban/)** - Manage your projects and workflows with a visual Kanban board.
 - **[Typing Speed Master](https://hitaarth69.github.io/typing-speed-tester/)** - Test and improve your typing speed with real-time feedback.
 - **[Hacker News Reader](https://hitaarth69.github.io/hn-reader/)** - Browse, search, and save your favorite Hacker News stories.
 - **[Expense Tracker](https://hitaarth69.github.io/expense-tracker/)** – Track your daily spending with ease.
